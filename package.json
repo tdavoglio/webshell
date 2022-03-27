@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Thiago Davoglio",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ssh2": "^1.8.0",
+    "xterm": "^4.18.0"
+  }
 }
